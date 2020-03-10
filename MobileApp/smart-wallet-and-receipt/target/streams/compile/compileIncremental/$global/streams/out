@@ -1,0 +1,30 @@
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial source changes: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	removed:Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	added: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	modified: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated products: Set(/Users/gr/Documents/UPRM/INSO4115/MobileAPPTry1/semester-project-inso4115-group-8/MobileApp/smart-wallet-and-receipt/target/scala-2.12/classes/hello/world/App$.class, /Users/gr/Documents/UPRM/INSO4115/MobileAPPTry1/semester-project-inso4115-group-8/MobileApp/smart-wallet-and-receipt/target/scala-2.12/classes/hello/world/App.class, /Users/gr/Documents/UPRM/INSO4115/MobileAPPTry1/semester-project-inso4115-group-8/MobileApp/smart-wallet-and-receipt/target/scala-2.12/classes/hello/world/Main$.class, /Users/gr/Documents/UPRM/INSO4115/MobileAPPTry1/semester-project-inso4115-group-8/MobileApp/smart-wallet-and-receipt/target/scala-2.12/classes/hello/world/Main.class)[0m
+[0m[[0m[0mdebug[0m] [0m[0mExternal API changes: API Changes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mModified binary dependencies: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial directly invalidated classes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mSources indirectly invalidated by:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	product: Set(/Users/gr/Documents/UPRM/INSO4115/MobileAPPTry1/semester-project-inso4115-group-8/MobileApp/smart-wallet-and-receipt/src/main/scala/hello/world/App.scala, /Users/gr/Documents/UPRM/INSO4115/MobileAPPTry1/semester-project-inso4115-group-8/MobileApp/smart-wallet-and-receipt/src/main/scala/hello/world/Main.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	binary dep: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	external source: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll sources are invalidated.[0m
+[0m[[0m[0mdebug[0m] [0m[0mRecompiling all 2 sources: invalidated sources (2) exceeded 50.0% of all sources[0m
+[0m[[0m[0minfo[0m] [0m[0mCompiling 2 Scala sources to /Users/gr/Documents/UPRM/INSO4115/MobileAPPTry1/semester-project-inso4115-group-8/MobileApp/smart-wallet-and-receipt/target/scala-2.12/classes ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.12:1.2.5:compile for Scala 2.12.8[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.12:1.2.5:compile for Scala 2.12.8[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 51bb0161 for Scala compiler version 2.12.8[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] The Scala compiler is invoked with:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-P:scalajs:sjsDefinedByDefault[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Xplugin:/Users/gr/.ivy2/cache/org.scala-js/scalajs-compiler_2.12.8/jars/scalajs-compiler_2.12.8-0.6.26.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Xplugin:/Users/gr/.ivy2/cache/org.scalamacros/paradise_2.12.8/jars/paradise_2.12.8-2.1.1.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/Users/gr/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.8.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/Users/gr/Documents/UPRM/INSO4115/MobileAPPTry1/semester-project-inso4115-group-8/MobileApp/smart-wallet-and-receipt/target/scala-2.12/classes:/Users/gr/.ivy2/cache/me.shadaj/slinky-native_sjs0.6_2.12/jars/slinky-native_sjs0.6_2.12-0.6.3.jar:/Users/gr/.ivy2/cache/me.shadaj/slinky-core_sjs0.6_2.12/jars/slinky-core_sjs0.6_2.12-0.6.3.jar:/Users/gr/.ivy2/cache/me.shadaj/slinky-readwrite_sjs0.6_2.12/jars/slinky-readwrite_sjs0.6_2.12-0.6.3.jar:/Users/gr/.ivy2/cache/org.scala-lang/scala-compiler/jars/scala-compiler-2.12.8.jar:/Users/gr/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.12.8.jar:/Users/gr/.ivy2/cache/org.scala-lang.modules/scala-xml_2.12/bundles/scala-xml_2.12-1.0.6.jar:/Users/gr/.ivy2/cache/org.scala-js/scalajs-library_2.12/jars/scalajs-library_2.12-0.6.28.jar:/Users/gr/.ivy2/cache/me.shadaj/slinky-hot_sjs0.6_2.12/jars/slinky-hot_sjs0.6_2.12-0.6.3.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mScala compilation took 2.576752654 s[0m
+[0m[[0m[0minfo[0m] [0m[0mDone compiling.[0m
