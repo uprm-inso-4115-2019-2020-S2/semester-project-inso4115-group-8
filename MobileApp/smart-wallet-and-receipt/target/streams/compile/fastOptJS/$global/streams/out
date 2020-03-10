@@ -1,0 +1,16 @@
+[0m[[0m[0minfo[0m] [0m[0mFast optimizing /Users/gr/Documents/UPRM/INSO4115/MobileAPPTry1/semester-project-inso4115-group-8/MobileApp/smart-wallet-and-receipt/target/scala-2.12/app-fastopt.js[0m
+[0m[[0m[0mdebug[0m] [0m[0mLinker: Compute reachability: 337242 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mLinker: Assemble LinkedClasses: 239550 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mBasic Linking: 586302 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mInc. optimizer: Batch mode: false[0m
+[0m[[0m[0mdebug[0m] [0m[0mInc. optimizer: Incremental part: 58541 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mInc. optimizer: Optimizing 41 methods.[0m
+[0m[[0m[0mdebug[0m] [0m[0mInc. optimizer: Optimizer part: 125198 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mInc. optimizer: 189452 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mRefiner: Compute reachability: 144559 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mRefiner: Assemble LinkedClasses: 4534 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mRefiner: 149571 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter: Class tree cache stats: reused: 773 -- invalidated: 3[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter: Method tree cache stats: resued: 1832 -- invalidated: 39[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter (write output): 337708 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mGlobal IR cache stats: reused: 9 -- invalidated: 3 -- trees read: 3[0m
